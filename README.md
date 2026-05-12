@@ -53,7 +53,7 @@ Diseña la matriz de permisos para los siguientes roles, asegurando el **Princip
 
   **Restricciones**: Ninguna
 
-* **Comercial:** Accesos a sus propios clientes y presupuestos
+* **Comercial:** Accesos a sus propios clientes y a sus propios presupuestos
 
   **Restricciones**: No puede visualizar costes de producción ni datos contables globales
 
