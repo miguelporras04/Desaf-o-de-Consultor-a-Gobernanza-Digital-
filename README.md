@@ -41,9 +41,9 @@ Escalabilidad : Elimina el “Efecto Silo” que tenemos al integrar el inventar
 | Concepto | Detalle | Coste estimado |
 | :---- | :---- | :---- |
 | Licencias/Suscripción  | Odoo Community | 0€ |
-| Implantación | 100 h de desarrollo x 40€/h | 4.000€ |
-| Coste Operativo | Hosting (AWS/Google Cloud) 50€/mes | 1.800€ (36 meses) |
-| Total ( 3 años ) |  | 5.800€ |
+| Implantación | 33 h de desarrollo x 40€/h | 1320€ |
+| Coste Operativo | Hosting (AWS/Google Cloud) 50€/mes | 600€ (12 meses) |
+| Total ( 1 año ) |  | 1.920€ |
 
 Bloque B: Diseño de Seguridad RBAC (CE f) {#bloque-b:-diseño-de-seguridad-rbac-(ce-f)}
 
