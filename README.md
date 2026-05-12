@@ -71,7 +71,7 @@ Siguiendo la norma **ISO/IEC 26514**, redacta un breve **Manual de Despliegue** 
 
 1. El fragmento de *docker-compose.yml* necesario.  
 2. El comando para realizar un backup de la base de datos PostgreSQL.
-
+pg_dump -U usuario -d nombre_base_de_datos > backup_archivo.sql
 BIBLIOGRAFIA
 
 [https://blogempresas.masmovil.es/efecto-silo-en-los-negocios-un-mal-que-debes-evitar/\#:\~:text=evitar%20este%20mal.-,%C2%BFQu%C3%A9%20es%20el%20efecto%20silo%20en%20una%20empresa%3F,de%20manera%20efectiva%20entre%20ellos.](https://blogempresas.masmovil.es/efecto-silo-en-los-negocios-un-mal-que-debes-evitar/#:~:text=evitar%20este%20mal.-,%C2%BFQu%C3%A9%20es%20el%20efecto%20silo%20en%20una%20empresa%3F,de%20manera%20efectiva%20entre%20ellos.)
