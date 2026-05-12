@@ -71,6 +71,7 @@ Siguiendo la norma **ISO/IEC 26514**, redacta un breve **Manual de Despliegue** 
 
 1. El fragmento de *docker-compose.yml* necesario.  
 2. El comando para realizar un backup de la base de datos PostgreSQL.
+
 pg_dump -U usuario -d nombre_base_de_datos > backup_archivo.sql
 BIBLIOGRAFIA
 
