@@ -55,7 +55,7 @@ Diseña la matriz de permisos para los siguientes roles, asegurando el **Princip
 
 * **Comercial:** Accesos a sus propios clientes y presupuestos
 
-		**Restricciones**: No puede visualizar costes de producción ni datos contables globales
+  **Restricciones**: No puede visualizar costes de producción ni datos contables globales
 
 * **Operario de Almacén:** Acceso exclusivo a stock y albaranes de entrada/salida
 
