@@ -18,7 +18,7 @@ Jose Luis Contreras Brazo
 
 [Bloque C: Documentación de Explotación (CE i)	3](#bloque-c:-documentación-de-explotación-\(ce-i\))
 
-# Bloque A: Análisis de Mercado y Selección (CE a, c) {#bloque-a:-análisis-de-mercado-y-selección-(ce-a,-c)}
+ Bloque A: Análisis de Mercado y Selección (CE a, c) {#bloque-a:-análisis-de-mercado-y-selección-(ce-a,-c)}
 
 Debéis elegir entre **Odoo (SaaS o Community)**, **SAP S/4HANA** o **Zoho One**.
 
@@ -45,7 +45,7 @@ Escalabilidad : Elimina el “Efecto Silo” que tenemos al integrar el inventar
 | Coste Operativo | Hosting (AWS/Google Cloud) 50€/mes | 1.800€ (36 meses) |
 | Total ( 3 años ) |  | 5.800€ |
 
-# Bloque B: Diseño de Seguridad RBAC (CE f) {#bloque-b:-diseño-de-seguridad-rbac-(ce-f)}
+Bloque B: Diseño de Seguridad RBAC (CE f) {#bloque-b:-diseño-de-seguridad-rbac-(ce-f)}
 
 Diseña la matriz de permisos para los siguientes roles, asegurando el **Principio de Mínimo Privilegio**:
 
@@ -65,7 +65,7 @@ Diseña la matriz de permisos para los siguientes roles, asegurando el **Princip
 
   **Restricciones**: No puede modificar niveles de stock
 
-# Bloque C: Documentación de Explotación (CE i) {#bloque-c:-documentación-de-explotación-(ce-i)}
+Bloque C: Documentación de Explotación (CE i) {#bloque-c:-documentación-de-explotación-(ce-i)}
 
 Siguiendo la norma **ISO/IEC 26514**, redacta un breve **Manual de Despliegue** para que el responsable de IT de la empresa pueda levantar el sistema en caso de caída. Debe incluir:
 
